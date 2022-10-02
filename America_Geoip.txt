@@ -1,5 +1,0 @@
-payload:
-  #北美洲
-  - GEOIP,US
-  - GEOIP,CA
-  - GEOIP,MX
