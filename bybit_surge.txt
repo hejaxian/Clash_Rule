@@ -1,18 +1,18 @@
-  - DOMAIN-SUFFIX,bybit.com
-  - DOMAIN-SUFFIX,bybit.org
-  - DOMAIN-SUFFIX,bybit.biz
-  - DOMAIN-SUFFIX,bycsi.com
-  - DOMAIN-SUFFIX,bytick.com
-  - DOMAIN-SUFFIX,byapis.com
-  - DOMAIN-SUFFIX,bycbe.com
-  - DOMAIN-SUFFIX,bymj.io
-  - DOMAIN-SUFFIX,bybitglobal.com
-  - DOMAIN-SUFFIX,bybit-global.com
-  - DOMAIN-SUFFIX,bybit.cloud
-  - DOMAIN-SUFFIX,byabcde.com
-  - DOMAIN-SUFFIX,bybdc6.com
-  - DOMAIN-SUFFIX,byd3c3.com
-  - DOMAIN-SUFFIX,bybit-aws.com
-  - DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
-  - DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
-  - DOMAIN-SUFFIX,onelink.me
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.org
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybit-aws.com
+DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
+DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
+DOMAIN-SUFFIX,onelink.me
