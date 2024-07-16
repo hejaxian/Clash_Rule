@@ -1,35 +1,3 @@
-## 一些 com.apple.appstored* 会连接的 API（优先级高）
-DOMAIN,guzzoni.apple.com
-DOMAIN,apps.apple.com
-DOMAIN,xp.apple.com
-DOMAIN,bag.itunes.apple.com
-DOMAIN,api-edge.apps.apple.com
-DOMAIN,api.apps.apple.com
-DOMAIN,play.itunes.apple.com
-DOMAIN,se.itunes.apple.com
-DOMAIN,se-edge.itunes.apple.com
-DOMAIN,su.itunes.apple.com
-DOMAIN,upp.itunes.apple.com
-DOMAIN,beta.music.apple.com
-DOMAIN-KEYWORD,buy.itunes.apple.com
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net
-# 验证服务器
-DOMAIN-SUFFIX,service.gc.apple.com
-DOMAIN-SUFFIX,setup.icloud.com
-DOMAIN-SUFFIX,appleid.apple.com
-DOMAIN-SUFFIX,gc.apple.com
-DOMAIN-SUFFIX,gsa.apple.com
-# imessage 和 Facetime 服务器
-DOMAIN-SUFFIX,ess.apple.com
-DOMAIN-SUFFIX,service.ess.apple.com
-DOMAIN-SUFFIX,init.ess.apple.com
-DOMAIN-SUFFIX,static.ess.apple.com
-# 推送服务器
-DOMAIN-SUFFIX,gateway.sandbox.push.apple.com
-DOMAIN-SUFFIX,gateway.push.apple.com
-# Mac OS 的 App Store 服务器
-DOMAIN-SUFFIX,swscan.apple.com
-DOMAIN-SUFFIX,swquery.apple.com
 ## Apple Global CDN
 ## iOS App Store
 DOMAIN,iosapps.itunes.apple.com
