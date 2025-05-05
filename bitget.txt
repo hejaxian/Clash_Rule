@@ -1,4 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,bitget.com
   - DOMAIN-SUFFIX,bitgetapps.com
-  - DOMAIN-SUFFIX,bitkeep.life           
+  - DOMAIN-SUFFIX,bitkeep.life              
+  - DOMAIN-SUFFIX,bitkeep.app
