@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,bitget.xyz
   - DOMAIN-SUFFIX,bitget.club
 
+  - DOMAIN-SUFFIX,bitkeep.com
   - DOMAIN-SUFFIX,bitgetapps.com
   - DOMAIN-SUFFIX,bitkeep.life              
   - DOMAIN-SUFFIX,bitkeep.app
